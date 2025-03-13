@@ -3,15 +3,15 @@
 
 A simple and modern To-Do List app built using SwiftUI with Firebase for real-time task management.
 
-## Features  
+# Features  
 - Add, edit, and delete tasks  
 - Clean and intuitive SwiftUI interface  
 - Dark mode support  
 
-## 🔧 Technologies Used  
+# Technologies Used  
 - SwiftUI  
 
-## 🚀 Setup & Installation  
+# Setup & Installation  
 1. Clone the repository  
 2. Open in Xcode  
 3. Run the app!  
